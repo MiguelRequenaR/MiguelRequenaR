@@ -8,7 +8,7 @@
 
 - 🔭 Actualmente estoy trabajando en ConstrucMarbella
 
-- 🌱 Actualmente estoy aprendiendo React, y TailwindCSS
+- 🌱 Actualmente estoy aprendiendo VueJS, y TailwindCSS
   
 - 📫 Contacta conmigo **m.angelrequena@gmail.com**
 

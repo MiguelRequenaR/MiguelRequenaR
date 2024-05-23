@@ -11,9 +11,6 @@
 <br />
 
 <h1>Estadísticas</h1>
-<ul>
-  <li>Estadísticas personales de proyectos.</li>
-</ul>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MiguelRequenaR&show_icons=true&include_all_commits=true&theme=onedark" alt="Miguel's github stats" />
 </a>

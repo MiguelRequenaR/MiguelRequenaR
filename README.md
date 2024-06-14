@@ -11,7 +11,10 @@
 <br />
 
 <h2>Contribution - Graph</h2>
+
 [![Mi gráfico de actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=MiguelRequenaR&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <br/>
 <br/>
 
@@ -40,7 +43,7 @@
 <code><img height="40" width="40" src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s900-c-k-c0x00ffffff-no-rj"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/788px-Adobe_Illustrator_CC_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://i.pinimg.com/736x/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.jpg"></code>
-<code><img height="40" width="40" src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png"></code>
+<code><img height="40" width="40" src="https://w7.pngwing.com/pngs/548/34/png-transparent-adobe-photoshop-macos-bigsur-icon-thumbnail.png"></code>
 
 
 <br/>

@@ -14,8 +14,6 @@
 
 [![Mi gráfico de actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=MiguelRequenaR&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<br/>
 <br/>
 
 <h2>Languages and Tools</h2>

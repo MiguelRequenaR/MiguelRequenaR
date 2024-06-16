@@ -4,7 +4,7 @@
 
 <h2>Web Developer</h2>
 <ul>
-  <li>🌱 I am currently learning Backend Web Development, Express, and NodeJS.</li>
+  <li>🌱 I am currently learning Backend Web Development, Express, NodeJS and Astro.</li>
   <li>📷 Photography enthusiast and lover of capturing unique moments..</li>
   <li>🧐 Portfolio, https://miguelparis.netlify.app/</li>
 </ul>

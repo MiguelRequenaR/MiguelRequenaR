@@ -33,7 +33,7 @@
 
 #
 
-<code><img height="40" width="40" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"></code>
+<code><img height="40" width="40" src="https://icon.icepanel.io/Technology/svg/Astro.svg"></code>
 <code><img height="40" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png"></code>
 <code><img height="40" width="40" src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png"></code>

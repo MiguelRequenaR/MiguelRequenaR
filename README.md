@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-<h1 align="center">Hello👋, I'm Miguel Angel</h1>
+<h1 align="center">Hola👋, soy Miguel Angel</h1>
 
 ---
 

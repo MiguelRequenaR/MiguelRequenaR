@@ -43,10 +43,6 @@ Actualmente participo en el desarrollo de proyectos web y móviles para startups
 - 💼 LinkedIn: [linkedin.com/in/miguelangelrequenaramos](https://www.linkedin.com/in/miguelangelrequenaramos/)
 - 🌐 Portafolio: [www.miguelparis.framer.website](https://miguelparis.framer.website/)
 
-
-> [!TIP]
-> _"La programación no es solo escribir código, es crear soluciones."_ 💡.
-
 ---
 
 ## Gráfico de Contribuciones 🚀
